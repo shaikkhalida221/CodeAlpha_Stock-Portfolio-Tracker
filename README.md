@@ -1,4 +1,3 @@
-# CodeAlpha_Stock-Portfolio-Tracker
 # Step 1: Define hardcoded stock prices
 stock_prices = {
     "AAPL": 180,
